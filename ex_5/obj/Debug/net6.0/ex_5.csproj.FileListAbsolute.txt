@@ -1,0 +1,15 @@
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\bin\Debug\net6.0\ex_5.exe
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\bin\Debug\net6.0\ex_5.deps.json
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\bin\Debug\net6.0\ex_5.runtimeconfig.json
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\bin\Debug\net6.0\ex_5.dll
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\bin\Debug\net6.0\ex_5.pdb
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\obj\Debug\net6.0\ex_5.csproj.AssemblyReference.cache
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\obj\Debug\net6.0\ex_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\obj\Debug\net6.0\ex_5.AssemblyInfoInputs.cache
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\obj\Debug\net6.0\ex_5.AssemblyInfo.cs
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\obj\Debug\net6.0\ex_5.csproj.CoreCompileInputs.cache
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\obj\Debug\net6.0\ex_5.dll
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\obj\Debug\net6.0\refint\ex_5.dll
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\obj\Debug\net6.0\ex_5.pdb
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\obj\Debug\net6.0\ex_5.genruntimeconfig.cache
+C:\Users\Zhan\Desktop\C#SEMINAR\homework\ex_5\obj\Debug\net6.0\ref\ex_5.dll
